@@ -1,0 +1,37 @@
+{
+  "name": "valkan.ru",
+  "version": "0.0.1",
+  "description": "valkan one page application",
+  "main": "index.html",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "gulp-mocha": "^2.0.0",
+    "gulp-util": "^3.0.4",
+    "gulp-uglify": "^1.1.0",
+    "gulp": "^3.8.11",
+    "del": "^1.1.1"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.1"
+  },
+  "scripts": {
+    "test": "gulp mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/valkan78/valkan.ru"
+  },
+  "keywords": [
+    "spa",
+    "valkan",
+    "frontend"
+  ],
+  "author": "Andrey Volkov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valkan78/valkan.ru/issues"
+  },
+  "homepage": "https://github.com/valkan78/valkan.ru"
+}
